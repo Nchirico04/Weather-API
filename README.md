@@ -1,1 +1,1 @@
-# Weather-API
+Server side API weather app.
